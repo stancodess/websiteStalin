@@ -12,7 +12,7 @@ const database = {
     address: '',
     freelanceStatus: '',
     socialLinks: {
-      facebook: 'https://www.facebook.com/stancodes',
+      facebook: '',
       twitter: 'https://twitter.com/stancodess',
       pinterest: '',
       behance: '',
